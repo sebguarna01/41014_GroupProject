@@ -17,11 +17,13 @@ This folder contains code for the Dobot Robot Hand-Eye Calibration Project by Gr
 ## Getting Started
 This sections runs through the project prerequisites:
 
-### How to Access the Video:
+### How to Access the Code:
 The project code can be accessed through GitHUb.
 
 **GitHub:**
 The code is available on GitHub at the following link: https://github.com/sebguarna01/41014_GroupProject
+
+### 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -40,3 +42,10 @@ The code is available on GitHub at the following link: https://github.com/sebgua
 The project team collaborated on the project code tasks equally. We made sure to communicate project needs and distribute tasks equally and fairly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Table of References -->
+## References
+* Paul, G. (2021, March 30). dobot_magician_driver. GitHub. https://github.com/gapaul/dobot_magician_driver
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
