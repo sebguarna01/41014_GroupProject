@@ -52,3 +52,21 @@ This sections runs through the project prerequisites:
 * Zhao, L. (2023). 41014 Group Project Details Spring 2023. Canvas. https://canvas.uts.edu.au/courses/28447/files/5508799?module_item_id=1497907
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<script>addBackToTop({
+  backgroundColor: '#fff',
+  innerHTML: 'Back to Top',
+  textColor: '#333'
+})</script>
+<style>
+  #back-to-top {
+    border: 1px solid #ccc;
+    border-radius: 0;
+    font-family: sans-serif;
+    font-size: 14px;
+    width: 100px;
+    text-align: center;
+    line-height: 30px;
+    height: 30px;
+  }
+</style>
