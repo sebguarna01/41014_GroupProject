@@ -28,7 +28,7 @@ The folder contains the following:
 ## Getting Started
 This sections runs through the project prerequisites:
 
-### How to Access the Video:
+### How to Access the Calibration:
 The project calibration documents can be accessed through GitHub.
 
 **GitHub:**
