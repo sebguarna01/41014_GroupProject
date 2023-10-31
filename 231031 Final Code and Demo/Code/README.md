@@ -37,6 +37,6 @@ The code is available on GitHub at the following link: https://github.com/sebgua
 
 <!-- CONTRIBUTIONS -->
 ## Contributions:
-The project team collaborated on the Project Code tasks equally. We made sure to communicate project needs and distribute tasks equally and fairly.
+The project team collaborated on the project code tasks equally. We made sure to communicate project needs and distribute tasks equally and fairly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
