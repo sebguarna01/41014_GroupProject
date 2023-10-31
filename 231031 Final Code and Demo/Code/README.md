@@ -23,7 +23,14 @@ The project code can be accessed through GitHUb.
 **GitHub:**
 The code is available on GitHub at the following link: https://github.com/sebguarna01/41014_GroupProject
 
-### 
+### Necessary Installations
+For the necessary installations, Paul's (2021) GitHub Repository on the DoBot Magician Driver was followed.
+
+**a) Latest Version of MATLAB**
+
+**b) Native Linux**
+
+**c) DoBot Magician Driver**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
