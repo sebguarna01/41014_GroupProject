@@ -9,7 +9,7 @@ Project Link: https://github.com/sebguarna01/41014_GroupProject
 The DoBot Robot Hand-Eye Calibration project is a significant endeavor in the realm of robotics, aiming to bridge the gap between perception and action by achieving precise hand-eye calibration on the DoBot Magician robot. This calibration is vital for enhancing the robot's performance in various applications, from control and object recognition to navigation. The project's scope encompasses understanding the mathematical principles of calibration techniques, integrating sensor data, and developing software solutions to achieve optimal calibration. The DoBot Robot Hand-Eye Calibration project aims to achieve precise calibration between the pattern-end effector and a mounted camera, enhancing accuracy and performance in various applications.
 
 ### Overview
-This submission contains the Project Presentation Video for the Dobot Robot Hand-Eye Calibration Project by Group 9. The video provides an overview of the project, its objectives (to achieve a DoBot Robot Hand-Eye Calibration Project following the given task), key project features, and any other relevant project evidence. It is designed to give viewers an understanding of the project's purpose and significance.
+This submission contains the Project Presentation Video for the Dobot Robot Hand-Eye Calibration Project by Group 9. 
 
 ### Video Content:
 The video covers the following project aspects: 
